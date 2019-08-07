@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d21a1b61-11e5-4148-8ecc-651bfd4d7674" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/pageC.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="244" column="40" lean-forward="true" selection-start-line="244" selection-start-column="40" selection-end-line="244" selection-end-column="40" />
+            <state relative-caret-position="285">
+              <caret line="244" column="31" selection-start-line="244" selection-start-column="31" selection-end-line="244" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -84,11 +85,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="199" />
+    <option name="width" value="1153" />
+    <option name="height" value="657" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -127,14 +132,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565157794758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565158360346" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/background" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/background" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,16 +164,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565148279951</updated>
-      <workItem from="1565148281544" duration="2833000" />
+      <workItem from="1565148281544" duration="3334000" />
     </task>
+    <task id="LOCAL-00001" summary="logo更改">
+      <created>1565157805807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565157805807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2833000" />
+    <option name="totallyTimeSpent" value="3334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="181" width="1153" height="657" extended-state="0" />
-    <editor active="true" />
+    <frame x="275" y="199" width="1153" height="657" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -203,6 +215,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="logo更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo更改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/原图/boy-walk2.png">
@@ -373,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/pageC.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="244" column="40" lean-forward="true" selection-start-line="244" selection-start-column="40" selection-end-line="244" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="244" column="31" selection-start-line="244" selection-start-column="31" selection-end-line="244" selection-end-column="31" />
         </state>
       </provider>
     </entry>
